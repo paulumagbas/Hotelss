@@ -270,4 +270,5 @@ class TravelDestinations
         Console.WriteLine($"Facilities: {hotel.Facilities}");
         Console.WriteLine($"Activities: {hotel.Activities}");
 
+    }
 }
